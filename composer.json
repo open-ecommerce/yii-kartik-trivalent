@@ -1,8 +1,8 @@
 {
-    "name": "open-ecommerce/yii2-telerivet",
+    "name": "open-ecommerce/yii2-kartik-trivalent",
     "description": "This component is YII2 wrapper for Telerivet PHP module",
     "type": "library",
-    "keywords": ["yii2","extension","telerivet","sms","voice","virtual number", "programable number"],
+    "keywords": ["yii2","extension","grid"],
     "license": "MIT",
     "authors": [
         {
